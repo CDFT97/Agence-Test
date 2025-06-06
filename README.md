@@ -20,6 +20,8 @@ Luego de eso deben acceder a la aplicación desde el siguiente enlace:
 
 http://localhost:8000/agence
 
+La fecha de inicio, segun registros de la db, coloquen 1 de enero de 2005.
+
 
 Por requisito de la prueba, la he subido a un hosting, pueden acceder a la aplicación desde el siguiente enlace:
 
