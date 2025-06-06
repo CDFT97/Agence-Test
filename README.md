@@ -19,3 +19,10 @@ php artisan serve (si es local)
 Luego de eso deben acceder a la aplicación desde el siguiente enlace:
 
 http://localhost:8000/agence
+
+
+Por requisito de la prueba, la he subido a un hosting, pueden acceder a la aplicación desde el siguiente enlace:
+
+https://agence-test.laravel.cloud/
+
+## Nota: Es un servidor gratis por lo que en cualquier momento podria quedarse sin acceso.
