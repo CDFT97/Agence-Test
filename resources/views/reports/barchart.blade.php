@@ -16,7 +16,6 @@
 @endsection
 
 @section('scripts')
-@viteReactRefresh
-@vite('resources/js/react/views/BarchartView.jsx')
-
+    @viteReactRefresh
+    @vite('resources/js/react/views/BarchartView.jsx')
 @endsection

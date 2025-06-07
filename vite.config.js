@@ -10,6 +10,8 @@ export default defineConfig({
                 'resources/js/app.js',
                 'resources/js/react/views/AgenceView.jsx',
                 'resources/js/react/views/InformView.jsx',
+                'resources/js/react/views/BarchartView.jsx',
+                'resources/js/react/views/PizzaView.jsx',
             ],
             refresh: true,
         }),
